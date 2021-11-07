@@ -1,0 +1,9 @@
+export { default as Header } from "../Pages/Header";
+export { default as Home } from "../Pages/Home";
+export { default as ChampionDetail } from "../Components/ChampionDetail.js";
+export { default as Welcome } from "../Components/Welcome.js";
+export { default as Button } from "../Components/Button";
+export { default as ChampionCard } from "../Components/ChampionCard";
+export { default as Champion } from "../Components/Champion";
+export { default as HomeSection } from "../Components/HomeSection";
+export { default as Trailer } from "../Components/Trailer";
