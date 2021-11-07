@@ -1,9 +1,0 @@
-export { default as Header } from "../Pages/Header";
-export { default as Home } from "../Pages/Home";
-export { default as ChampionDetail } from "../components/ChampionDetail";
-export { default as Welcome } from "../components/Welcome";
-export { default as Button } from "../components/Button";
-export { default as ChampionCard } from "../components/ChampionCard";
-export { default as Champion } from "../components/Champion";
-export { default as HomeSection } from "../components/HomeSection";
-export { default as Trailer } from "../components/Trailer";
